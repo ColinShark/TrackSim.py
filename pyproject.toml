@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "tracksim-py"
+name = "tracksim"
 version = "0.1.0"
 description = "Python Wrapper for the TrackSim API"
 authors = ["ColinShark <colin@colinshark.de>"]
